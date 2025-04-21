@@ -1,0 +1,17 @@
+# Ignore secrets
+.env
+
+# Python junk
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+venv/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
