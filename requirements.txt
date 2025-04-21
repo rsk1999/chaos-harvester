@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+psycopg2-binary
+redis
+celery
+feedparser
+discord.py
+imapclient
